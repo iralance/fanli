@@ -1,0 +1,14 @@
+{
+    "name": "iralance/fanli",
+    "description": "iralance demo",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iralance",
+            "email": "iralance@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
